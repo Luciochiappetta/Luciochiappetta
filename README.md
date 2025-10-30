@@ -1,6 +1,6 @@
 ## Hi there :computer: 😎
 <br>
-I'm Lúcio Chiappetta, I'm a Systems Analysis and Development Technologist and a Full Stack Programmer.
+I'm Lúcio Chiappetta, I'm a Systems Analysis and Development Technologist(ADS) and a Full Stack Programmer.
 <br>
 <br>
 <img src="" alt="html-logo" />
