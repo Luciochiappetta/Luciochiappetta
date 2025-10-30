@@ -12,16 +12,13 @@ I'm Lúcio Chiappetta, I'm a Systems Analysis and Development Technologist and a
 <br>
 ## Connect with me:
 <br>
-<br>
 <p>
-<a href="https://www.linkedin.com/in/lucio-chiappetta-070369lc" />
-<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@vn3/icons/linkedin.svg" /> 
+<a href="https://www.linkedin.com/in/lucio-chiappetta-070369lc/">
+<img align="left" alt="linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
 </a>
-</p>
- <br>
- <br>
+
+ 
 [![Lúcio Chiappetta stats](https://github-readme-stats.vercel.app/api?username=Luciochiappetta
 )](https://github.com/anuraghazra/github-readme-stats)
- <br>
- <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciochiappetta)](https://github.com/anuraghazra/github-readme-stats)
